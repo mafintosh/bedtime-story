@@ -1,0 +1,21 @@
+{
+  "name": "bedtime-story",
+  "version": "0.0.0",
+  "description": "Run a command and make your computer go to sleep",
+  "main": "index.sh",
+  "bin": {
+    "bedtime-story": "./index.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/bedtime-story.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/bedtime-story/issues"
+  },
+  "homepage": "https://github.com/mafintosh/bedtime-story"
+}
