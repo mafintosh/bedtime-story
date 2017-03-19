@@ -1,6 +1,6 @@
 {
   "name": "bedtime-story",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Run a command and make your computer go to sleep",
   "main": "index.sh",
   "bin": {
